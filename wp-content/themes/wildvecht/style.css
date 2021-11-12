@@ -1,0 +1,25 @@
+/*
+Theme naem: wildvecht
+Author: Sean
+*/
+
+#menu a{
+    margin: 0 30px;
+}
+
+#sidebar figure{
+    margin: 0;
+}
+
+#sidebar li {
+    list-style: none;
+}
+
+#footer li{
+    list-style: none;
+}
+
+#sidebar{
+    min-height: 100vh;
+}
+
